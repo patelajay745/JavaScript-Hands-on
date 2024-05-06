@@ -30,3 +30,17 @@ console.log("Number to Boolean:", bool2);
 console.log("Boolean to Number:", num2);
 
 console.log(typeof num);
+
+
+
+// Operation
+
+let value =3
+let negValue=-value
+
+console.log(value);
+console.log(negValue);
+
+console.log("1"+2+2);//122
+
+console.log(1+2+"3");//33
